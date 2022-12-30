@@ -1,0 +1,36 @@
+.parallax {
+  /* The image used */
+  background-image: url("../../../assets/pexels-photo-509922.jpeg");
+
+  /* Set a specific height */
+  min-height: 709px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  top: 500px;
+}
+.parallax-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 100px;
+}
+.parallax-h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 52.8px;
+  text-align: center;
+}
+.parallax-p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 25.6px;
+  text-align: center;
+}

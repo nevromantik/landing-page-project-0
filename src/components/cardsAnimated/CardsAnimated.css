@@ -1,0 +1,36 @@
+.cardsAnimated_container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+}
+.card-animated-1,
+.card-animated-2 {
+  display: flex;
+  position: relative;
+  bottom: 115px;
+}
+
+.card-animated-1 {
+  margin-right: 100px;
+}
+
+.cardsanimated__info {
+  margin-left: 50px;
+}
+
+.cardsanimated__btn {
+  background-color: #75b5c3;
+  border: none;
+  color: white;
+  padding: 10px 40px;
+}
+
+.c_a_h4 {
+  font-size: 24px;
+}
+
+.c_a_p {
+  font-size: 16px;
+}

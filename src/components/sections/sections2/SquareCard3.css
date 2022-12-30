@@ -1,0 +1,47 @@
+.squarecard3_wrap {
+  display: flex;
+  position: relative;
+  top: 200px;
+  right: 180px;
+  margin-top: 100px;
+}
+.sc3_left {
+  display: flex;
+  flex-direction: column;
+}
+
+.sc3left1 {
+  display: flex;
+}
+
+.sc3l1 {
+  width: 280px;
+  height: 285px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sq3_h1 {
+  font-size: 96px;
+}
+.sc3l1b {
+  background-color: #75b5c3;
+  color: white;
+}
+
+.sc3_right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.h3sc3right {
+  position: relative;
+  right: 250px;
+}
+.p3sc3right {
+  position: relative;
+  right: -30px;
+}

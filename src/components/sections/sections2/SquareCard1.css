@@ -1,0 +1,38 @@
+.squarecard1_wrap {
+  display: flex;
+  flex-direction: column;
+}
+
+.s_c1_text {
+  height: 397px;
+  width: 285px;
+  background-color: #75b5c3;
+  color: white;
+}
+
+.squarecard1_left {
+  display: flex;
+}
+.squarecard1_h1 {
+  font-size: 96px;
+  margin-left: 20px;
+}
+
+.s_c1_text > h1 {
+  margin-left: 20px;
+}
+.squarecard1_container {
+  display: flex;
+}
+
+.squarecard1_text_wrap {
+  font-size: 20px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 50px;
+}
+
+.p_t {
+  margin-left: 30px;
+  position: relative;
+  top: 30px;
+}

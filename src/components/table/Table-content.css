@@ -1,0 +1,44 @@
+.content-wrap {
+  height: 390px;
+  width: 1140px;
+  background-color: white;
+  position: absolute;
+}
+
+.h5-c1 {
+  font-family: "Playfair Display", serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 33.6px;
+  padding: 20px 10px;
+}
+
+.p1-c1 {
+  font-family: "Open Sans", sans-serif;
+  color: rgb(117, 181, 195);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 28.8px;
+  padding-left: 20px;
+}
+.p-c1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 25.6px;
+  padding-left: 20px;
+}
+
+.p-c2 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 28.8px;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+.tab {
+  width: 100%;
+  background-color: black;
+}
+.pos-c {
+  padding: 20px;
+}
